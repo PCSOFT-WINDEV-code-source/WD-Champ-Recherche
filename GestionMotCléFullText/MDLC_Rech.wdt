@@ -1,0 +1,104 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : MDLC_Rech
+ major_version : 28
+ minor_version : 0
+ type : 20
+ description : ""
+ subtype : 0
+window :
+ name : MDLC_Rech
+ identifier : 0x2a250e571e4b9a9e
+ internal_properties : CAAAAAgAAADsYYdK4QtsQnHf7xw340lC4ED8HOfYn2YzlESfJ1eOhChpDa3BRGaw5x6lBi6O657c3XAXwG11IRbeYIG/r9l4Tn3vhX0XaJ59wqk/T8KIaONg+EIfNWVpxmb8+cqv7mdlukc2kxpsXOVGMRF8WuJgOdyC3Nc29/ePQckHPcINq98/JSiAnSdV7eyHEBxQVLiTux0QVQ3Qberh/nJs8bOsAL/15ttasuNTWSG/SIlHaDzUE4lUHhUSp4fLd+TJ81jMdG2bhM8dAUbij1ulXlhF19uCr+leawnfLdPX/usIjNtZijMu/TZEdm8D4RUpSUU+SxRyZQoTvyY6/QhHayaBwHp/qecsBuXXKcHutddvF3NG0ZcwXIX8HtanWMq8z1Pf469q/AXMs4kX1FZMQgXhvES/uUO7yuKEwJTKFYecSPYWTtrCxHhSWMBgaD2rcYxCNt2rRjrCdCNMJ/e9Yw2lZKmEipUCsIqiaP8fD0hukT+tLPCFMSrQ6PYasyvmQm0IQG724a1CRZrMBIHXKDTWmfwOmdUXScbBqYmF4+RFTRc9hHvU+xjuDXn03/acse/BbxNhzePzO2rHgulZ861bGjRzEU2DjALW1zqWeBa7Dl1VWD6VkLgKwsv/DzXrf60fH6gJbWkbny4G
+ properties :
+  width : 589
+  height : 24
+ controls :
+  -
+    name : MDLC_Rech
+    identifier : 0x2a250e571e4d9a9e
+    internal_properties : CAAAAAgAAABP+G2WG7HwAvNIdVpxq5H/QxUAhFEJ/CuDTPzuD0P58sUjnVD/4F7GPH8SaFTad5lpPnNOYzIE2ZZjbVP18H+Er9q76n/7+He0KjPaLQEUURHPm2OAxbcDxSEiP/V390Hp4I5soRLtnNtpBbpKQJa/DWyfgXMsI7SQN4ONluCt4z++ssatW1P+s74f4zxPL52kHKOcmNfB6hqJidfK10RviH5TPN3GK2262WdnyTwwJVdR06IYItQBM6OFNbKfsfVH6Ahnm7y63y/mX9H6i3yZQDRTD0wDqTWA7oKHC/4wuQ3f9DohOjHBa3YJaHdwvM2slGEXtPmnfon8m0f4f0Bb9CvgaGy4VtLmq/ovnLNlGNLbIlY7uYDiCTWgT+iFFFFxTldSWwDhvEJamqY6/bkO0wVDTlTCxtYvkELO3fNcaltzM/Kx24DLDvaO7oKVjExeeRqkwy7TItcl5vh2Bs4h4QJEUlX8O4KlnQ==
+    properties :
+     width : 589
+     height : 24
+    controls :
+     -
+       name : SaisieRecherche
+       identifier : 0x2a250e571e4e9a9e
+       internal_properties : CAAAAAgAAABb4f0+gfVAdLDifeWrYUo95kTqU0NUusDY494LdSQFv6Hgbh1lv4eSgPYmSrmJhz7NQptmjsbpgGeeT3z6y3/qVwnEqe7N80M7UvpizU+Z9sL2i5vVihJ6h1bvE6x6OGtJELw8N4Sef8iZme4f6LOQb3t1QxXl7blOqD9PahXBiF5zo3tj8sYpQmMpGvQU0unezpYXN/kWMhq/WmZs3MAZnGm7g1tsQqROSMX2O0a16sGXslW/LeK29oYe0FOf4yvaBhOWJdPbMk8CHeH9R0H3rDr8yZIi5y5bq7AjYvDX9oKqJpTBSmdJ/rDTrpw8zEWpdPh8iA9E28unnc5KYEb+AbYWB/GMy6d6DYbND2tbiLHjMR5A64OBPPFlsqUKuUdELDvH+DrXN0vjVMO0kEnh+HKT4sUJC8bUXJoFyBPQgrQLaLjXmHfgC8SFFZbu8SB/dwQDWjIO63SX59iO7jBl0zhQ5gbU9XmPj+a57bwQSoVtj1rsM9YVH8wt66pl7GdKlCU5khau98PI7XgYmmjAo57F8TSfRgp68I0A/gyxAjgTFr8lmvdE8FIYahDzvWpF2SsNBjp38SxRzLGJGG7j5/s4GIfxQapuz77lQrBoc5cwYP9iEvdW5K146wdryqMup5N7g3W57bvVlSuLpfNbg4N0+yE9i3ZuH0Fq0WjR1chR7s5CCdEl26ZR6KZ7d7FLzjjkz9ThSwOIYqvrmpzZas5lWdFDnCbLCNh6raTVMkDIpsoKAMcm2lBZwyKSEs//DTAeHu/krCrso4BDCV0V4jLDublb6xmuT2GA3aSBtqCnbCqQljJ4+Y79qqHNeHBMIcbFjKIs3wu/KrpQl2uSx5zOAX6g6YGVB90qlgAqbKBLtDCd/dIfX9p7HcX52vk8ey7ZHhDcWuowXDoTHsMXE6l83GEQZgJ5I9Q89cfDPm5bhVMHiNt4VWAjD9qOAdrpPKT+ajb9AlzK3JA3UKrtdSkv9lcEXhKpPt1Y8uf0hYmkB+sqibwwGi4z2hPfenKF2+A6qXIUP5QhTkwG3aTssJX8Nus+so5FoJVdCwShc58rJlcBviV+iYwKbp3nLXSfxp+Gq9XFiks301kjxNX1aDG6h/4tHTU2gf2FSndMgCwOuUBO7qpkdhFQAYIHHHMbP9P61chzA7pqudFoPhwOp7WJDfqGOdXHZ9zaZjzgavUpUXz0D3gY99B/SQF7QW+Ws+zL+KyWO3qjwolySce+NHbxAK6lmbWjJNFTMcT+1nwghKbiAppr7njW6u1/O8mLnZ8/cbTfJYN6VOatXqT/aBSCHOSkX3tc30OEDW22hau58UgpqPz++XTlcbjdM5RUVMLt3m6WyERXwqEUmkMQ91/UCd0lqvJVWOjwyWNWx1Ev8n6jI2JG646q0OVbXObQd/YSixxZJgfKlzT8jILZMnLO2DnqVSyEXgrLI2KFz8EGGvOosJywMZhmv/SKyLlEzvm3/3qIZsi1K2stfVmsX33JOwZwHkkQtb/9EZOqzA0cvQaa1p3LQaCUsgx5hgXHf77Mx8VdDAvdaIUegilHvkXCiqTFiG+RIi4vhpjrIsYn+06Irh4GCEosIUdx1LZoQtGQ4u2TDCoLM7nmaErlEQ0Dcc2bxVVzTogoga0AF6cf71SCwI5l/SpaoNj4DtvnoFe57JA1JC6+GMdLSq2PV4bViMQSlPfN7Cb8DGKGsJbImpA3cHl0utfIcJcRU9Y=
+       properties :
+        x : 1
+        width : 579
+        height : 24
+       input :
+        internal_properties : CAAAAAgAAACmKRhQAqIW/94yddXg9Ekek9ihNRzWL1VpfrlYF0+ZqL6Wd6Wnal/3dLv7cGoVAReCYrEsatyrcunE4RBM/a0DkVe8mKxYdT4ET0udpmiwdCq/oV9cVi+yc7ySnMk55KeYqZbcbFO438eG8kwlNEimG/386r9gd4qriMyN7x7QkXw8sjjZLfA56t/DZVID77cviX3ijwJfoeHyEMgs/RUKDPnQez1eWunAzcJsQnl0hZes0t9Bw1eEfn6pUmEQPn5SgVs67McnFNqg+QuBBMG2glCvGMFy41K6MXxEGQ80ypPqTlljLTDXoNNWFt0DoQkcfdPAdclaOm0uQxAXMAJgjt0o0wTmlAwgIG4PWhIkkyoeWhyr+Yvjng40DJbFcmDWtfmbefKIOJs1l0DI1b/ArdKSY0Axker7+jeidHCQb+JwHA1aQmn1tiPIwSI0VbShag8NleT7ieyQR7lTurm23g8E5bT/fa40KB1vk7xMkfOP4/t4tP6Nqpk2zWa9+tIB4xCegqJq+HWPDbxb0hZ/jJnW/90KqBz1YrCt+YND7l0/bs65HLJV5GG0g58u8yfhV1pc+yAplrNv/i7g/4VmTQNSx1NxZ7jAQSMng9agDIDtbfBFzdePUyny98d/1dy64ZU1AQ==
+        type : 2
+       dropdown :
+        internal_properties : CAAAAAgAAAAZM2BQ2O1I/zOnavpyv+JW53Qzs9ItiEWLduo3fqGk8eSyhj4MRr9ZD79sss8ZIHV4JufCMfMArkXUIOJ7miLmuFmP0mMMoxmekN98jacjqQSuZX6RRUhpvnQxJRZHL52Wcn+Q9jUg1qwiUjcfZciUMxvMlKLxzEYLDOaj80aNhrK9FR3ksbufDH29UOwANX0QCxKHjknYE+BMPHMZt40FwZ5m4rqYsQJDM6gJR9A5uo1A3nPSFg5HdPDguyByDpLJFqd8mJVDED0S5b0r5ogVVGG5C7Q8H3J1UaPAyiJPrAQOCMIgCoDgm3TcHR/Ox/XE4JLDVd7p7nwZG2CNS+Q16T74+fZ5eEPNxnGyS+W78t+/HXDFte2Cuvxx2/5P+P9lsbf5+HkO9rDAEU4rsd5Pn589TmEc0CZncfP8jIO+tyETQV8P3swVYvvSL+MY4ptQSrJIgyJl69KqjAQ9S62Koqm+bJcBdMT8Hiilq4hln+ZxsVsSorWhNPUsxA+EbMeGX2+grggov35/a2dasFpHEJ7jUGmeuHZBba0k073E7eeqT5b5FKiwf2Hi187/pF6U8cHehigR3gX2PLsqUV9OrTqwjTtQkD4ihtV29O/QySu8yAfXd3Fn42BNWKxvaZPbPfaGq3K9QwgamOoSxyTb7Qcg3Ip1+zIbb8OWxUpt4e/I7gSHlRUpBYkK65IUzMvB0nSqIXfRRFLL3+b15wXZ3ozJoB4l+egDpNIoiQMgg2jDEbqvR2rWcTN7F2dX83F1h851Q6jvuQBvoW0AeAlWaRYa
+        type : 7
+       type : 14
+       code_elements :
+        type_code : 23
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           type : 35
+           enabled : false
+         -
+           internal_properties : CAAAAAgAAADZ8BiJBT/A0YPggVOsKF6d3qBiEGM4AgWzTNLIlEPXb0xhRa2KCa+7tJv80dOmRU5j103bVu8ML9Jn2+h5rXveOJSCOEe8eiggEe9Csga5gH4zVr6wPDrliIFQuJySfacw7Eu/EbQoW5V/ysGcQZ8b0vmLTQ8SMxP+g5VIbVtW1Q==
+           code : |1-
+            //Dés que l'utilisateur saisit, il faut lui faire des propositions adaptées à sa saisie.
+            
+            //Il faut conserver les espaces car il servent de séparateurs entre les mots recherchés.
+            bGestionEspaces est un booléen= ChampSansEspace(faux)
+            
+            //Gestion des propositions de recherche
+            //On sauve la saisie de l'utilisateur et la position du curseur.
+            sSaisie est une chaine = MoiMême
+            nPosCurseur est un entier=MoiMême..Curseur
+            //On demande au composant de nous fournir la liste des expressions correspondantes
+            //Le résultat est au format <Expression>TAB<Nombre> Résultats+RC
+            sPropose est une chaine = pGestionMotDeRecherche.RechPropose(sSaisie)
+            //Mise à jour de la combo en saisie.
+            ListeSupprimeTout(SaisieRecherche)
+            ListeAjoute(SaisieRecherche,Complète(sSaisie,55," ")+tab+"...")
+            ListeAjoute(SaisieRecherche,sPropose)
+            //On force l'ouverture de la combo.
+            ComboOuvre(SaisieRecherche)
+            //On remet le champ de saisie et la gestion des espaces comme cela fonctionne dans le projet.
+            MoiMême = sSaisie
+            MoiMême..Curseur=nPosCurseur//Taille(sSaisie)+1
+            ChampSansEspace(bGestionEspaces)
+           type : 17
+    type : 42
+    code_elements :
+     type_code : 92
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x2a250e571e4f9a9e
+  internal_properties : CAAAAAgAAAD7S+2GOLjEeheq9Y6YZGIRPpLnwB8KUS2je4S4X5oxSGrv51WBBaVxxbk/BTEdUwW0fnnvlhQNIBAuQTAO0S9+S8FMTvDhqkS1JydqFJBfHlbZSFzBkZAjjJ5aIH/cuMnF4Pme57TAyYvjnlkzTJmN5UX9hu+BEl3AsIsso5gsz3oX/KHp1ai/xWZCb54MlUFXdWmT2EOpULKqea/LH9EOlTkaiWsV2aM2/FfXQjTSY3NhAR6zEzKHYKVJwiZULchG0D4LNvRbPifZJPDMmlF6ptz+Rg0QN6SXG5jU7HifIzmkonwDFnOJQw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 91
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : MDLC_ModèleChamps1
+resources :
+ string_res :
+  identifier : 0x1fc4cf1609e2e2bf
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

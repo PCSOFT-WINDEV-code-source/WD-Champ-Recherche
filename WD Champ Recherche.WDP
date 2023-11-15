@@ -1,0 +1,90 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Champ Recherche
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Le projet a pour but de ...
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Champ Recherche GGL
+    internal_properties : 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
+    configuration_id : 6095342473810927415
+    type : 1
+    generation_name : WD Champ Recherche.exe
+    version :
+     version : VI200066F
+     autoincrement_version : false
+    icon_filename : .\VST01061b.ico
+    language : 1
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAABCqsp2S46R1lRxx6NTTBV+aqD1pQBPIfL0qnUcUnlYogvGFcX5IygYiQN6NRNO0AmidF4t15CVi42n
+ elements :
+  identifier : 0x4c4d96dc001118ea
+  elements :
+   -
+     name : TEST_RechercheArticles
+     identifier : 0x4c4d97480020bd43
+     internal_properties : CAAAAAgAAAB41qD8S3A4Y2nNUoWJdE158LE/Z2miJc+jlZ1qSPedA8UtGT/cbPkhTvPty0uFfXNd5Q==
+     physical_name : .\TEST_RechercheArticles.wxt
+     type : 17
+   -
+     name : FEN_RechercheArticles
+     identifier : 0x4a13b8540002a9c7
+     internal_properties : CAAAAAgAAADYtoCcK1DYg0nt8qXp1eGNTC+bQ/9Qb+mv2hCHM8xI0CyiqKB8jBnBLhONayulXVO9RQ==
+     physical_name : .\FEN_RechercheArticles.wdw
+     type : 2
+   -
+     name : REQ_Rech
+     identifier : 0x4a250e6b0002eaff
+     internal_properties : CAAAAAgAAAC6kOImhcJqdX8fiF/j0POz6s85ORIh3HZ2xYpEdzPhb01ByY+Chh/HIAX/+bk3wzWfpw==
+     physical_name : .\REQ_Rech.WDR
+     type : 5
+  other_elements : []
+  analysis : .\WD Champ Recherche.ana\WD Champ Recherche.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components :
+   -
+     physical_name : .\GestionMotCléFullText\GestionMotCléFullText.wci
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wd_style_sheet : .\WD Champ Recherche GGL.sty
+ wb_style_sheet : .\WD Champ Recherche GGL.wws
+ code_elements :
+  internal_properties : CAAAAAgAAADb0X3Q2v0LLNsvY2l3retKgyxhRPNFA8iZae8plD7M95YxpFLAfhrGsw6WJ5qKVKh1/uo6m/P8xeSBsx1LepSX
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Champ Recherche GGL
+     identifier : 0x4c4d96dc00161957
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
